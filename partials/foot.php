@@ -4,7 +4,7 @@
          <div class="container">
              <div class="row">
                  <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
-                     <img class="logo1" src="temp/images/logo1.png" alt="#" />
+                     <img class="logo1" src="temp/images/logo.jpg" alt="#" />
                      <ul class="social_icon">
                          <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
                          <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
@@ -14,14 +14,12 @@
                  </div>
                  <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
                      <h3>About Us</h3>
-                     <ul class="about_us">
-                         <li>dolor sit amet, consectetur<br> magna aliqua. Ut enim ad <br>minim veniam, <br> quisdotempor incididunt r</li>
-                     </ul>
+                     <p>We help organizations of all types and sizes prepare for the path ahead — wherever it leads. Our curated collection of business and technical courses help companies, governments, and nonprofits go further by placing learning at the center of their strategies.</p>
                  </div>
                  <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
                      <h3>Contact Us</h3>
                      <ul class="conta">
-                         <li>dolor sit amet,<br> consectetur <br>magna aliqua.<br> quisdotempor <br>incididunt ut e </li>
+                         <li>+994505505050<br>+994555555556<br>ubemy@gmail.com<br>Baku,Azerbaijan</li>
                      </ul>
                  </div>
                  <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
@@ -37,7 +35,7 @@
              <div class="container">
                  <div class="row">
                      <div class="col-md-12">
-                         <p>© 2019 All Rights Reserved. Design by<a href="https://html.design/"> Free Html Templates</a></p>
+                         <p>© 2022 All Rights Reserved. Design by Rauf & Shamil</p>
                      </div>
                  </div>
              </div>
