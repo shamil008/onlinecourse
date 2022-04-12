@@ -9,6 +9,6 @@
     $user_data = mysqli_fetch_assoc(mysqli_query($conn, "SELECT * FROM users where id = $user_id"));
 ?>
 
-Welcome to our website <?= $user_data['name'] ?>
+Welcome our website <?= $user_data['name'] ?>
 
 <a href="logout.php">Logout</a>
